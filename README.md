@@ -24,3 +24,5 @@ bash
 Copy code
 pip list
 You should see the libraries google-api-python-client, google-auth-httplib2, and google-auth-oauthlib in the list.
+
+![Screenshot_20241106_222304](https://github.com/user-attachments/assets/a2dce15f-2eaf-4c56-b38e-8e1fea86428c)
